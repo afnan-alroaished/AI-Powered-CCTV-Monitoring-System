@@ -1,34 +1,76 @@
 # AI-Powered CCTV Monitoring System
 
+**Project Lead:** Afnan Saleh Alroaished
+
 ## Overview
-This project demonstrates a smart CCTV monitoring system designed for surveillance, security operations, and incident detection using modern IP camera technologies.
 
-## Objectives
-- Monitor facilities in real time.
-- Support smart surveillance operations.
-- Improve incident detection.
-- Enhance security awareness.
+This project presents a complete CCTV surveillance system assessment and practical implementation completed during professional CCTV systems training.
 
-## Technologies
+My responsibilities included leading the project, preparing the technical assessment report, documenting the installation process, creating the Bill of Quantity (BOQ), evaluating system components, and providing engineering recommendations.
+
+---
+
+# Practical Workshop
+
+![CCTV Workshop](cctv-workshop.jpeg)
+
+Hands-on installation and configuration including:
+
+- Camera Installation
+- Cable Routing
+- DVR Configuration
+- System Testing
+- Equipment Preparation
+- Technical Documentation
+
+---
+
+# Bill of Quantity (BOQ)
+
+![BOQ](cctv-boq.jpeg)
+
+The BOQ contains all required CCTV components including cameras, DVR, cabling, conduit, accessories, and installation materials.
+
+---
+
+# Technical Report
+
+📄 **Assessment Report**
+
+[CCTV Surveillance System Assessment Report](CCTV_Surveillance_System_Assessment_Report.pdf)
+
+---
+
+# Technologies
+
 - CCTV Systems
-- IP Cameras
-- DVR / NVR
+- Analog Cameras
+- DVR
 - Networking
-- Video Surveillance
-- Smart Monitoring
-- AI Integration
-- Python (Future Integration)
+- Technical Documentation
+- Bill of Quantity (BOQ)
+- System Assessment
 
-## Skills Demonstrated
-- Camera installation
-- System configuration
-- Video recording
-- Network setup
-- Surveillance monitoring
+---
+
+# Skills Demonstrated
+
+- CCTV Installation
+- Technical Documentation
+- System Assessment
+- BOQ Preparation
 - Troubleshooting
+- Team Leadership
+- Project Coordination
 
-## Project Status
-Completed during professional CCTV systems training.
+---
+
+# Project Status
+
+**Completed Successfully**
+
+---
 
 ## Author
+
 **Afnan Saleh Alroaished**
